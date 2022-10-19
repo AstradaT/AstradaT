@@ -3,6 +3,7 @@
 ### I'm Tomás, a Data Scientist from Argentina.
 ---
 - 😄 Pronouns: He/Él
+- ♓ Sign: Pisces 🐟
 - 🧑🏽‍💻 Programming Languages: Python, C
 - 💬 Human Languages: Spanish, English, Portuguese, Mandarin Chinese, French, Italian...
 - 🌱 I’m currently learning to use Big Data tools.
