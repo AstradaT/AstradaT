@@ -8,5 +8,5 @@
 - 💬 Human Languages: Spanish, English, Portuguese, Mandarin Chinese, French, Italian...
 - 🌱 I’m currently learning to use Big Data tools.
 - ⚡ Unsurprising Fact: I love cats 🐈‍⬛ <3
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tom%C3%A1s-astrada-370b73171/), [Instagram](https://www.instagram.com/tomi.astrada/)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/tomas-astrada), [Instagram](https://www.instagram.com/tomi.astrada/)
 - 💛 Hobbies: coffee, reading, and listening to Taylor Swift
